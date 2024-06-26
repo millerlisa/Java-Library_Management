@@ -1,0 +1,11 @@
+Authors:
+John Doe,1970-01-01
+Jane Smith,1980-02-02
+Items:
+Book,1,Book One,John Doe,111-1111111111,Publisher One,5,PRINTED
+Book,2,Book Two,Jane Smith,222-2222222222,Publisher Two,3,ELECTRONIC
+Periodical,3,Periodical One,John Doe,1,Publisher Three4,PRINTED
+Periodical,4,Periodical Two,Jane Smith,2,Publisher Four2,ELECTRONIC
+Patrons:
+StudentPatron,Alice,123 Main St,123-456-7890,12345,Computer Science
+EmployeePatron,Bob,456 Elm St,098-765-4321,54321,IT
